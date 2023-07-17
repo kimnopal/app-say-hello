@@ -1,0 +1,6 @@
+github.com/kimnopal/go-say-hello v1.0.0 h1:3q4XHfHSq3KXoSaR2/gv4EzVZdLbyxysLeBbn8hFFWU=
+github.com/kimnopal/go-say-hello v1.0.0/go.mod h1:3WajLhXrku+ZfjgmdDYb1CHlER+TkRVzdQW5Nrlmyjk=
+github.com/kimnopal/go-say-hello v1.5.0 h1:3/7hTRTsOFhP0nxcH3ILpvu0n5sXgWh5rLFxf+z83kA=
+github.com/kimnopal/go-say-hello v1.5.0/go.mod h1:3WajLhXrku+ZfjgmdDYb1CHlER+TkRVzdQW5Nrlmyjk=
+github.com/kimnopal/go-say-hello/v2 v2.0.0 h1:QS1wDwOmu9u+d0W9xEWSFdzkk3bbMUE+REhvFZ9NRd8=
+github.com/kimnopal/go-say-hello/v2 v2.0.0/go.mod h1:fPn/oP53EUKHBP3acPCKyMvZdB9vBm6N2GlLwsGC3bw=
